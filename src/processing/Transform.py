@@ -1,6 +1,5 @@
 from abc import ABCMeta, abstractmethod
 from enum import Enum
-from functools import reduce
 from typing import Self
 
 from src.data.VertexData import VertexData

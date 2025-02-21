@@ -1,4 +1,3 @@
-import numpy as np
 from rdp import rdp
 
 from src.data.VertexData import VertexData
